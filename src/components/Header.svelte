@@ -13,7 +13,7 @@
   
   @font-face {
     font-family: Lato;
-    src: url(https://cdn.glitch.global/654dde86-bb6e-4237-91f1-68a1583dba33/Lato-Regular.ttf?v=1696730960004);
+    src: url(../../assets/Lato-Regular.ttf);
   }
   
   .header {

@@ -102,12 +102,12 @@
   
   @font-face {
     font-family: GFSDidot;
-    src: url(https://cdn.glitch.global/654dde86-bb6e-4237-91f1-68a1583dba33/GFSDidot-Regular.ttf?v=1696605495364);
+    src: url(../../assets/GFSDidot-Regular.ttf);
   }
   
   @font-face {
     font-family: OpenSans;
-    src: url(https://cdn.glitch.global/654dde86-bb6e-4237-91f1-68a1583dba33/OpenSans-Regular.ttf?v=1696697100991);
+    src: url(../../assets/OpenSans-Regular.ttf);
   }
 
 

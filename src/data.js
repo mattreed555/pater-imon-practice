@@ -1,5 +1,5 @@
 export const data = {
-  "mp3Url": "https://cdn.glitch.global/654dde86-bb6e-4237-91f1-68a1583dba33/pater-imon.mp3?v=1697804534275",
+  "mp3Url": "./assets/pater-imon.mp3",
   "lines": [
     {
       "words": [
