@@ -1,5 +1,5 @@
 export const data = {
-  "mp3Url": "./assets/pater-imon.mp3",
+  "mp3Url": "/pater-imon-practice/pater-imon.mp3",
   "lines": [
     {
       "words": [
